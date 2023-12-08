@@ -1,4 +1,4 @@
-!(IMG_2231.jpg)[A developing sky]
+![A developing sky](IMG_2231.jpg)
 
 The breeze picked up. The wind ran sharp, whooshing among objects and surfaces. It grew colder, a light drizzle followed making one gravitate towards warmth. 
 
