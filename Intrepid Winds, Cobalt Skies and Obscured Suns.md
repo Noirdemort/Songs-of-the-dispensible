@@ -1,4 +1,4 @@
-![A still moment](IMG_0371.jpg)
+![A still moment](IMG_0371.JPG)
 
 The winds sifted through my hair, whispering the unknowable. A stint of scepticism entered my mind, like silence before the storm. 
 
